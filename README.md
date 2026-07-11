@@ -11,5 +11,6 @@ The vision, positioning, and flagship documents for the AI2Web protocol. Steward
 | [05 - Business Plan](05-business-plan.md) | Market, model, GTM, moat, financials, risks (v1.0). |
 | [06 - Pitch Deck](06-pitch-deck.md) | 17-slide investor narrative (v1.0). |
 | [07 - Why a Unified Ecosystem](07-why-unified-ecosystem.md) | The Search Console analogy: protocols solve interoperability; AI2Web solves usability, adoption, governance, operations. |
+| [08 - Ecosystem Comparison](08-ecosystem-comparison.md) | Honest comparison vs MCP, WebMCP, OpenAPI, WordPress Abilities, ACP, AIWebIndex, A2WF, A2UI and IntentWeb. |
 
 The normative protocol lives in the [`ai2web-spec`](https://github.com/ai2web-foundation/ai2web-spec) repo. The remaining investor materials (business plan, pitch deck) are planned - see the umbrella `PLAN.md`.
