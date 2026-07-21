@@ -9,6 +9,8 @@
 
 # AI2Web - Strategy & Foundation Docs
 
+[![AI2Web on Launchpadly - Product of the Week (Gold)](https://launchpadly.co/embed/badges/startup/ai2web.svg?variant=product-week-gold)](https://launchpadly.co/startup/ai2web?ref=badge)
+
 The vision, positioning, and flagship documents for the AI2Web protocol. Stewarded by the AI2Web Foundation. Licensed **CC-BY-4.0** (see [LICENSE](LICENSE)).
 
 | Doc | What |
